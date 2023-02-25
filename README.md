@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vathsalvathsa
 - 👀 I’m interested in hacking
-- 🌱 I’m currently learning python
+- 🌱 I’m good in python
 - 💞️ I’m looking to collaborate on hacking project
 - 📫 How to reach me 
 my instagram id @vathsalvathsa
