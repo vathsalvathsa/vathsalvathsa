@@ -13,7 +13,7 @@ I build data pipelines, dashboards and predictive models, and I'm looking for a 
 |---|---|---|
 | [recruitment-tracker](https://github.com/vathsalvathsa/recruitment-tracker) | Excel candidate tracker, live hiring dashboard, pipeline reports and email templates | Python, pandas, openpyxl, Excel |
 | [Diet and Workout Recommendation System](https://github.com/vathsalvathsa/diet-workout-recommender.git) | Full-stack recommender with KNN and Decision Trees, deployed on IBM Cloud | Python, Node.js, REST APIs, SQL, Power BI |
-| Predictive Analysis for Cloud | Forecasts cloud resource demand with a KPI dashboard | Python, scikit-learn, Grafana |
+| [UPI-Transaction-Analytics](https://github.com/vathsalvathsa/upi-transaction-analytics.git)  | UPI Transaction Analytics & Anomaly Detection project, transaction trends, payment success rates, failure reasons, and user activity are analyzed mainly using SQL and Python, a machine learning model | Python, SQLite, Pandas and NumPy, Scikit-learn,Matplotlib |
 
 ## Skills
 **Languages:** Python, SQL, Java, JavaScript
