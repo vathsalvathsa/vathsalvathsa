@@ -12,7 +12,7 @@ I build data pipelines, dashboards and predictive models, and I'm looking for a 
 | Project | What it does | Stack |
 |---|---|---|
 | [recruitment-tracker](https://github.com/vathsalvathsa/recruitment-tracker) | Excel candidate tracker, live hiring dashboard, pipeline reports and email templates | Python, pandas, openpyxl, Excel |
-| Diet and Workout Recommendation System | Full-stack recommender with KNN and Decision Trees, deployed on IBM Cloud | Python, Node.js, REST APIs, SQL, Power BI |
+| [Diet and Workout Recommendation System](https://github.com/vathsalvathsa/diet-workout-recommender.git) | Full-stack recommender with KNN and Decision Trees, deployed on IBM Cloud | Python, Node.js, REST APIs, SQL, Power BI |
 | Predictive Analysis for Cloud | Forecasts cloud resource demand with a KPI dashboard | Python, scikit-learn, Grafana |
 
 ## Skills
