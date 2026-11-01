@@ -173,20 +173,21 @@ print(me.build())
 
 ## 📊 GITHUB PERFORMANCE
 
+## 📊 GITHUB PERFORMANCE
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vathsalvathsa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vathsalvathsa&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vathsalvathsa&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Contribution Streak"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathsalvathsa&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/vathsalvathsa">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Repositories-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vathsalvathsa&theme=tokyo-night&hide_border=true" />
+  <b>Consistent learning. Continuous building. Measurable progress.</b>
 </p>
-
----
 
 ## 🎯 CURRENT OBJECTIVES
 
