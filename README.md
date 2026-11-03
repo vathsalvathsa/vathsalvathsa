@@ -171,7 +171,6 @@ print(me.build())
 
 ---
 
-## 📊 GITHUB PERFORMANCE
 
 ## 📊 GITHUB PERFORMANCE
 
