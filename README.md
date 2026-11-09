@@ -228,11 +228,6 @@ flowchart LR
   <img src="https://streak-stats.demolab.com?user=vathsalvathsa&theme=tokyonight&hide_border=true&background=0D1117" alt="Contribution streak" width="85%"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/vathsalvathsa">
-    <img src="https://ghchart.rshah.org/00F7FF/vathsalvathsa" alt="Contribution graph" width="95%"/>
-  </a>
-</p>
 
 ---
 
